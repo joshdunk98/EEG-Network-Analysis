@@ -1,4 +1,1 @@
-This repository contains all of the ML projects that I have worked on. Each Project contains source code and results from the project. Some projects have not been fully completed, but will be updated over time.
-
-# List of Projects
-Functional EEG Network Analysis
+This repository contains all of the code for the Functional EEG Network Analysis project conducted at The University of Tennessee, Knoxville as a part of the REU program funded by JICS.
